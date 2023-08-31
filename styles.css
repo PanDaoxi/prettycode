@@ -1,0 +1,72 @@
+@font-face {
+	font-family: Consolas;
+	src: url("./fonts/Consola.ttf");
+}
+
+@font-face {
+	font-family: JetBrainsMono;
+	src: url("./fonts/JetBrainsMono.ttf");
+}
+
+@font-face {
+	font-family: Hermit;
+	src: url("./fonts/Hermit.otf");
+}
+
+@font-face {
+	font-family: CourierNew;
+	src: url("./fonts/CourierNew.ttf");
+}
+
+@font-face {
+	font-family: Inconsolata;
+	src: url("./fonts/Inconsolata.otf");
+}
+
+@font-face {
+	font-family: MONACO;
+	src: url("./fonts/MONACO.TTF");
+}
+
+@font-face {
+	font-family: SYHengShui;
+	src: url("./fonts/ShuYaoHengShuiTi.ttf");
+}
+
+@font-face {
+	font-family: RileysonRg;
+	src: url("./fonts/RileysonRg.ttf");
+}
+
+@font-face {
+	font-family: SYItalic;
+	src: url("./fonts/ShuYaoItalic.ttf");
+}
+
+.write {
+	float: left;
+	height: 500px;
+	width: 49%;
+	font-family: JetBrainsMono;
+	text-align: center;
+}
+
+#tips {
+	font-weight: bolder;
+	font-size: 15px;
+}
+
+.print {
+	margin-left: 51%;
+	width: 49%;
+	font-family: SYHengShui;
+}
+
+.form-inline {
+	text-align: center;
+}
+
+#codeprint {
+	font-family: JetBrainsMono;
+	tab-size: 4;
+}
